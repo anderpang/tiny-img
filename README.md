@@ -1,5 +1,7 @@
 # tiny-img
 
+利用tinypng批量压缩文件夹中的图片
+
 ### Installation
 
 ```bash
