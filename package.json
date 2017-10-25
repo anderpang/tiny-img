@@ -1,0 +1,15 @@
+{
+  "name": "tiny-img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin":{
+     "tiny-img":"./bin/tiny-img.js"
+  },
+  "scripts": {
+    "start":"node ./bin/tiny-img.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
