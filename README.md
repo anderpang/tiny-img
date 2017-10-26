@@ -1,11 +1,13 @@
 # tiny-img
 
+Use tinypng to bulk compress the images in the folder
+
 利用tinypng批量压缩文件夹中的图片
 
 ### Installation
 
 ```bash
-$ npm install tiny-img -g (国内网络原因，暂未发布)
+$ npm install tiny-img -g
 ```
 
 ### Usage
